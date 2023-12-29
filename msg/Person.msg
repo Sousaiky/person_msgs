@@ -1,0 +1,2 @@
+uint16 birthday
+string age
