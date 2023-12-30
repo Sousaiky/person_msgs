@@ -1,2 +1,5 @@
+#SPDX-FileCopyrightText: 2023 Soshi Saiki
+#SPDX-Licence-Identifire: BSD-3-Clause
+
 uint16 birthday
 string age
